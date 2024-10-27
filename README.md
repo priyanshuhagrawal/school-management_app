@@ -1,1 +1,1 @@
-# school-management_app
+# school_management_app
